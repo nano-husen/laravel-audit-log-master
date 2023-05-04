@@ -1,7 +1,7 @@
 {
-  "name": "jeylabs/laravel-audit-log",
+  "name": "nano-husen/jeylabs-laravel-audit-log",
   "description": "A very simple audit logger to monitor the users of your website or application",
-  "homepage": "https://github.com/jeylabs/laravel-audit-log",
+  "homepage": "https://github.com/nano-husen/laravel-audit-log",
   "keywords": [
     "jeylabs",
     "log",
@@ -13,8 +13,8 @@
   "authors": [
     {
       "name": "jeylabs",
-      "email": "ratheep.ceymplon@jeylabs.com.au",
-      "homepage": "https://jeylabs.com",
+      "email": "mailathusen@gmail.com",
+      "homepage": "https://homepage.mv",
       "role": "Developer"
     }
   ],
